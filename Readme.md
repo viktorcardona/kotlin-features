@@ -1,11 +1,6 @@
-Kotlin for Java Developers is a Coursera course by Svetlana Isakova and Andrey Breslav
+#Kotlin for Java Developers is a Coursera course by Svetlana Isakova and Andrey Breslav
 
-EduTools Plugin:
-    https://www.jetbrains.com/help/education/install-edutools-plugin.html?section=IntelliJ%20IDEA#72d7
-
-Assignments:
-    https://www.jetbrains.com/help/education/coursera-programming-assignments.html#submitting_to_coursera_kotlin_for_java_devs
-
+Find here the basics of Kotlin
 
 
      ___________________
@@ -27,10 +22,9 @@ Assignments:
 
 OOP
 
-Modifier        Visible in:         Notes
---------        
-public          Everywhere
-internal        The module
-protected       Subclasses        In Java also visible in the same package
-private         The Class
-
+| Modifier | Visible in  | Notes  |
+| ------- | --- | --- |
+| public | Everywhere |  |
+| internal | The module |  |
+| protected | Subclasses | In Java also visible in the same package |
+| private | The Class |  |
